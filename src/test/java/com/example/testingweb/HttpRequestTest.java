@@ -26,3 +26,4 @@ class HttpRequestTest {
 				String.class)).contains("Hello, World");
 	}
 }
+
