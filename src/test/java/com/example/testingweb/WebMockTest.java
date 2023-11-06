@@ -30,3 +30,4 @@ class WebMockTest {
 				.andExpect(content().string(containsString("Hello, Mock")));
 	}
 }
+
