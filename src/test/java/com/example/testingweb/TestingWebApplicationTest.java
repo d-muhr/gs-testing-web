@@ -26,3 +26,4 @@ class TestingWebApplicationTest {
 				.andExpect(content().string(containsString("Hello, World")));
 	}
 }
+
