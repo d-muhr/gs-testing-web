@@ -10,3 +10,4 @@ public class TestingWebApplication {
 		SpringApplication.run(TestingWebApplication.class, args);
 	}
 }
+
